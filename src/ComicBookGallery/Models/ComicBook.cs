@@ -16,7 +16,7 @@ namespace ComicBookGallery.Models
 
 
         public string DisplayText
-        {
+        { 
             get
             {
                 return SeriesTitle + " #" + IssueNumber;
